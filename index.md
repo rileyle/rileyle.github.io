@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Lew Riley
 
-You can use the [editor on GitHub](https://github.com/rileyle/rileyle.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Professor at [Ursinus College](https://www.ursinus.edu)<BR />
+Chair of [Physics and Astronomy](https://www.ursinus.edu/academics/physics-and-astronomy/)<BR />
+[Pre-Engineering](https://www.ursinus.edu/academics/pre-engineering/) Coordinator<BR />
+[lriley@ursinus.edu](mailto:lriley@ursinus.edu)<BR />
+he|him
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Summer 2021
 
-### Markdown
+Matt Quirin (UC Pre-Engineering '22) and Ray Saunders (UC Physics '22) are at the [Fox Lab at Florida State University](http://fsunuc.physics.fsu.edu/research/fox_lab/) following in Jess Nebel-Crosson's (UC Physics '21) footsteps using with the 9 MV Tandem Van de Graaff accelerator and the Super Enge Split Pole Spectrograph to study neutron transfer reactions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rileyle/rileyle.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Fall 2021 Courses
+- CIE-100: *Common Intellectual Experience I*
+- PHYS-328W: *Analog Electronics*
+- PHYS-121L: *Spacetime and Quantum Physics Lab*
+- PHYS-111L.B: *General Physics I Lab*

@@ -1,0 +1,331 @@
+\documentclass[12pt]{article}
+
+\usepackage{graphics}
+\usepackage{html}
+\usepackage{amssymb}
+\usepackage{hyperref}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\setlength{\textwidth} {6.5 true in}
+\setlength{\textheight}{9 true in}
+\setlength{\hoffset}   {-0.50 true in}
+\setlength{\voffset}   {-0.75 true in}
+
+\begin{document}
+
+\begin{latexonly}
+\subsection*{Cramer's Rule}
+\end{latexonly}
+
+Cramer's rule is a method of solving $n$ simultaneous equations
+for $n$ unknowns. 
+
+\begin{itemize}
+\item Any system of equations of this kind can be written
+in the form 
+\begin{equation}
+\begin{array}{c}
+a_{11} \, x_1 + a_{12} \, x_2 + ... + a_{1n} \, x_n = b_{1} \\
+a_{21} \, x_1 + a_{22} \, x_2 + ... + a_{2n} \, x_n = b_{2} \\
+\vdots \\
+a_{n1} \, x_1 + a_{n2} \, x_n + ... + a_{nn} \, x_n = b_{n} 
+\end{array}
+\label{eq:neq}
+\end{equation}
+
+\item The coefficients on the left side of Eq.'s~\ref{eq:neq} can be
+  written as a matrix, 
+\begin{equation}
+A = 
+\left(
+\begin{array}{cccc}
+a_{11}  & a_{12} & ...    & a_{1n} \\
+a_{21}  & a_{22} & ...    & a_{2n} \\
+\vdots  &\vdots  & \ddots & \vdots \\
+a_{n1}  & a_{n2} & ...    & a_{nn}
+\end{array}
+\right)
+\end{equation}
+
+\item The value of any of the $x_i$ can be found via
+\begin{equation}
+x_i = \frac{|B_i|}{|A|}
+\label{eq:sols}
+\end{equation}
+where the notation $|A|$ and $|B_i|$ denote the 
+\htmladdnormallink{determinants}{../det/det.html}
+of matrices $A$ and $B_i$, and the matrix $B_i$ is obtained by
+replacing the $i^{th}$ column of matrix $A$ with the coefficients on
+the left side of Eq.'s~\ref{eq:neq}. For example,
+\begin{equation}
+B_2 = 
+\left(
+\begin{array}{cccc}
+a_{11} & b_1    & ...    & a_{1n} \\
+a_{21} & b_2    & ...    & a_{2n} \\
+\vdots & \vdots & \ddots & \vdots \\
+a_{n1} & b_n    & ...    & a_{nn}
+\end{array}
+\right)
+\end{equation}
+
+\end{itemize}
+
+\subsubsection*{The $\mathbf{n=2}$ Case}
+\begin{itemize}
+\item Two equations involving two unknowns can be written in the form 
+\begin{equation}
+\begin{array}{c}
+a_{11} \, x_1 + a_{12} \, x_2 = b_{1} \\
+a_{21} \, x_1 + a_{22} \, x_2 = b_{2} 
+\end{array}
+\end{equation}
+which yields
+\begin{equation}
+A = 
+\left(
+\begin{array}{cc}
+a_{11} & a_{12} \\
+a_{21} & a_{22} 
+\end{array}
+\right)
+\end{equation}
+
+\item Eq.~\ref{eq:sols} gives
+\begin{equation}
+x_1 = 
+\frac{
+\left|
+\begin{array}{cc}
+b_1 & a_{12} \\
+b_2 & a_{22} 
+\end{array}
+\right|
+}{
+\left|
+\begin{array}{cc}
+a_{11} & a_{12} \\
+a_{21} & a_{22} 
+\end{array}
+\right|
+}
+=
+\frac{b_1 \, a_{22} - a_{12} \, b_2}
+{a_{11} \, a_{22} - a_{12} \, a_{21}}
+\end{equation}
+and
+\begin{equation}
+x_2 = \frac{
+\left|
+\begin{array}{cc}
+a_{11} & b_1 \\
+a_{21} & b_2 
+\end{array}
+\right|
+}{
+\left|
+\begin{array}{cc}
+a_{11} & a_{12} \\
+a_{21} & a_{22} 
+\end{array}
+\right|
+}
+=
+\frac{a_{11} \, b_2 - b_1 \, a_{21}}
+{a_{11} \, a_{22} - a_{12} \, a_{21}}
+\end{equation}
+
+\end{itemize}
+
+\subsubsection*{An $\mathbf{n=2}$ Example}
+
+\begin{itemize}
+\item The system of equations
+\begin{equation}
+\begin{array}{c}
+2 \, x_1 - \, x_2 = 1 \\
+5 \, x_1 + 3 \, x_2 = 2
+\end{array}
+\label{eq:2eq}
+\end{equation}
+has solutions
+\begin{equation}
+x_1 = 
+\frac{
+\left|
+\begin{array}{cc}
+1 & -1 \\
+2 & 3 
+\end{array}
+\right|
+}{
+\left|
+\begin{array}{cc}
+2 & -1 \\
+5 & 3 
+\end{array}
+\right|
+}
+= \frac{5}{11}
+\end{equation}
+and
+\begin{equation}
+x_2 = 
+\frac{
+\left|
+\begin{array}{cc}
+2 & 1 \\
+5 & 2 
+\end{array}
+\right|
+}{
+\left|
+\begin{array}{cc}
+2 & -1 \\
+5 & 3 
+\end{array}
+\right|
+}
+= -\frac{1}{11}
+\end{equation}
+
+\item The results can be verified by substituting them into either of
+Eq.'s~\ref{eq:2eq},
+\begin{equation}
+\frac{10}{11} + \frac{1}{11}  = \frac{11}{11} = 1
+\hspace{24pt}\checkmark
+\end{equation}
+
+\end{itemize}
+
+\subsubsection*{An $\mathbf{n=3}$ Example}
+\begin{itemize}
+\item The system of equations
+\begin{equation}
+\begin{array}{c}
+2 \, x_1 - ~ \, x_2 + 4 \, x_3 = 2 \\
+5 \, x_1 + 3 \, x_2 + 2 \, x_3 = 1 \\
+~~~ \, x_1 + 6 \, x_2 + ~~ \, x_3 = -3 \\
+\end{array}
+\label{eq:3eq}
+\end{equation}
+has solutions
+\begin{eqnarray}
+\nonumber
+x_1 & = &
+\frac{
+\left|
+\begin{array}{ccc}
+ 2 & -1 & 4 \\
+ 1 &  3 & 2 \\
+-3 &  6 & 1
+\end{array}
+\right|
+}{
+\left|
+\begin{array}{ccc}
+ 2 & -1 & 4 \\
+ 5 &  3 & 2 \\
+ 1 &  6 & 1
+\end{array}
+\right|
+} \\
+\nonumber
+& = & 
+\frac{
+    2 (3 \cdot 1 - 2 \cdot 6)
+- (-1)(1 \cdot 1 - 2 \cdot -3)
++   4 (1 \cdot 6 - 3 \cdot -3)
+}{
+    2 (3 \cdot 1 - 2 \cdot 6)
+- (-1)(5 \cdot 1 - 2 \cdot 1)
++   4 (5 \cdot 6 - 3 \cdot 1)
+}\\
+&=&\frac{49}{93}
+\end{eqnarray}
+\begin{eqnarray}
+\nonumber
+x_2 &=& 
+\frac{
+\left|
+\begin{array}{ccc}
+ 2 &  2 & 4 \\
+ 5 &  1 & 2 \\
+ 1 & -3 & 1
+\end{array}
+\right|
+}{
+\left|
+\begin{array}{ccc}
+ 2 & -1 & 4 \\
+ 5 &  3 & 2 \\
+ 1 &  6 & 1
+\end{array}
+\right|
+}\\
+\nonumber
+&=&  
+\frac{
+  2 (1 \cdot 1 - 2 \cdot -3)
+- 2 (5 \cdot 1 - 2 \cdot  1)
++ 4 (5 \cdot -3 - 1 \cdot 1)
+}{93}\\
+&=& -\frac{56}{93}
+\end{eqnarray}
+and
+\begin{eqnarray}
+\nonumber
+x_3 &=&
+\frac{
+\left|
+\begin{array}{ccc}
+ 2 & -1 &  2 \\
+ 5 &  3 &  1 \\
+ 1 &  6 & -3
+\end{array}
+\right|
+}{
+\left|
+\begin{array}{ccc}
+ 2 & -1 & 4 \\
+ 5 &  3 & 2 \\
+ 1 &  6 & 1
+\end{array}
+\right|
+}\\
+\nonumber
+&=&
+\frac{
+    2 (3 \cdot -3 - 1 \cdot 6)
+- (-1)(5 \cdot -3 - 1 \cdot 1)
++   2 (5 \cdot  6 - 3 \cdot 1)
+}
+{93}\\
+&=&
+\frac{8}{93}
+\end{eqnarray}
+
+\item The results can be verified by substituting them into any of
+Eq.'s~\ref{eq:3eq}, 
+\begin{equation}
+\frac{2 \cdot 49 - (-56) + 4 \cdot 8}{93} = \frac{186}{93} = 2
+\hspace{24pt}\checkmark
+\end{equation}
+
+\end{itemize}
+
+{\footnotesize
+  \noindent
+  \hrulefill
+  
+  \noindent
+  This work is licensed under the Creative Commons
+  Attribution-ShareAlike 4.0 International License: 
+  \url{http://creativecommons.org/licenses/by-sa/4.0/}.\\
+
+  \noindent
+  L.A. Riley (\texttt{lriley@ursinus.edu}), updated \today
+}
+
+\end{document}
