@@ -39,12 +39,19 @@
         {% endif %}
 	
         {% if site.github.is_user_page %}
-	<p class="view"><a href="/">Home</a></p>                                                              <!-- LR -->
-	<p class="view"><a href="https://www.ursinus.edu/live/profiles/189-lew-riley">Ursinus Profile</a></p> <!-- LR -->
-	<p class="view"><a href="/schedule.html">Schedule</a></p>                                             <!-- LR -->
-	<p class="view"><a href="/cv.html">CV</a></p>                                                         <!-- LR -->
-	<p class="view"><a href="/resources.html">Physics/Math Resources</a></p>                              <!-- LR -->
-        <!-- LR <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> -->
+	<p class="view"><a href="/">Home</a><br />                                              <!-- LR -->
+	<a href="/schedule.html">Schedule</a><br />                                             <!-- LR -->
+	<a href="https://www.ursinus.edu/live/profiles/189-lew-riley">Ursinus Profile</a></p> <!-- LR -->
+
+
+	<p class="view"><a href="/resources.html">Physics/Math Resources</a></p>                <!-- LR -->
+
+	
+	<p class="view"><a href="/nuclear.html">Nuclear Structure Research</a><br />            <!-- LR -->
+	<a href="/simulations.html">Detector Simulations</a><br />                              <!-- LR -->
+	<a href="{{ site.github.owner_url }}">GitHub Profile</a><br />
+	<a href="/cv.html">CV</a></p>                                                           <!-- LR -->
+
         {% endif %}
 
         {% if site.show_downloads %}
