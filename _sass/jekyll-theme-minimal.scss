@@ -1,17 +1,27 @@
 @import "fonts";
-@import "rouge-github";
+/*@import "rouge-github";*/
+
+/* Modified for dark mode. (See https://css-tricks.com/dark-modes-with-css/) */
 
 body {
-  background-color: #fff;
+  background-color: #181818;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color:#cccccc;
   font-weight:400;
+}
+@media screen and (prefers-color-scheme: light) {
+    body {
+	background-color: #fff;
+	padding:50px;
+	font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#727272;
+	font-weight:400;
+    }
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
-  margin:0 0 20px;
+    margin:0 0 20px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -27,11 +37,21 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#aaaaaa;
+}
+@media screen and (prefers-color-scheme: light) {
+    h2 {
+	color:#393939;
+    }
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+    color:#bbbbbb;
+}
+@media screen and (prefers-color-scheme: light) {
+    h3, h4, h5, h6 {
+	color:#494949;
+    }
 }
 
 a {
@@ -46,13 +66,25 @@ a:hover, a:focus {
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#aaaaaa;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#aaaaaa;
+}
+@media screen and (prefers-color-scheme: light) {
+    a small {
+	font-size:11px;
+	color:#777;
+	margin-top:-0.3em;
+	display:block;
+    }
+
+    a:hover small {
+	color:#777;
+    }
 }
 
 .wrapper {
@@ -69,15 +101,36 @@ blockquote {
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
+  color:#aaaaaa;
 }
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;
+  background: #0a0a0a;
   border-radius:5px;
-  border:1px solid #e5e5e5;
+  border:1px solid #aaaaaa;
   overflow-x: auto;
+}
+@media screen and (prefers-color-scheme: light) {
+    blockquote {
+	border-left:1px solid #e5e5e5;
+	margin:0;
+	padding:0 0 0 20px;
+	font-style:italic;
+    }
+
+    code, pre {
+	font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+	color:#333;
+    }
+
+    pre {
+	padding:8px 15px;
+	background: #f8f8f8;
+	border-radius:5px;
+	border:1px solid #e5e5e5;
+	overflow-x: auto;
+    }
 }
 
 table {
@@ -102,6 +155,16 @@ th {
 
 img {
   max-width:100%;
+}
+
+@media (prefers-color-scheme: dark) {
+  img {
+    opacity: .75;
+    transition: opacity .5s ease-in-out;
+  }
+  img:hover {
+    opacity: 1;
+  }
 }
 
 kbd {
