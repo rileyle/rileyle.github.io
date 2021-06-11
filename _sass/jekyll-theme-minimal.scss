@@ -49,13 +49,24 @@ h1 {
     }
 }
 
-a {
+b, strong {
+  color:#aaaaaa;
+  font-weight:700;
+}
+@media screen and (prefers-color-scheme: light) {
+    b, strong {
+	color:#222;
+	font-weight:700;
+    }
+}
+
+a, a b, a strong {
   color:#267CB9;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#267CB9;
   font-weight: bold;
 }
 
@@ -225,17 +236,6 @@ ul.downloads {
 
 .downloads ul a:active {
   background-color:#f0f0f0;
-}
-
-b, strong {
-  color:#aaaaaa;
-  font-weight:700;
-}
-@media screen and (prefers-color-scheme: light) {
-b, strong {
-  color:#222;
-  font-weight:700;
-}
 }
 
 .downloads li + li + li {
