@@ -1,13 +1,17 @@
-all: det.pdf
+all: det.pdf det.md
 	echo "all : done.";echo
 
-# Pattern rule for generating PDF from LaTex files.
-det.pdf : det.tex dets.eps
-	pdflatex det
-	pdflatex det
+# Pattern rule for generating Markdown from LaTeX files.
+%.md : %.tex
+	pandoc --mathjax -f latex-auto_identifiers -s $*.yaml $*.tex  -t markdown-header_attributes -o $*.md
+
+# Pattern rule for generating PDF from LaTeX files.
+%.pdf : %.tex 
+	pdflatex $*
+	pdflatex $*
 	rm *.aux *.log *.out
-	echo "det.pdf : done."
+	echo "$*.pdf : done."
 
 clean:
-	rm -f *.aux *.log *.out *.pdf
+	rm -f *.aux *.log *.out *.md *.pdf
 	echo "clean : done.";echo

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.7a -->
+
+<!-- CreationDate: 2021-06-13 15:23:33 -->
+
+<!-- Magnification: 1.05 -->
+
+<svg
+   width="196pt"
+   height="178pt"
+   viewBox="123 348 3099 2814"
+   version="1.1"
+   id="svg78"
+   sodipodi:docname="complexMult.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   inkscape:export-filename="/home/lriley/www/rileyle.github.io/resources/complex/complexMult.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs82" />
+  <sodipodi:namedview
+     id="namedview80"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="2.0308989"
+     inkscape:cx="130.73029"
+     inkscape:cy="118.66667"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg78" />
+  <rect
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:23.7168;stroke-dashoffset:23.5999"
+     id="rect106"
+     width="3082.8677"
+     height="2814.3093"
+     x="124.34892"
+     y="343.35959" />
+  <g
+     fill="none"
+     id="g76">
+    <!-- Circle -->
+    <circle
+       cx="945"
+       cy="900"
+       r="45"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="8px"
+       id="circle2" />
+    <!-- Circle -->
+    <circle
+       cx="1080"
+       cy="2115"
+       r="45"
+       fill="#0000ff"
+       stroke="#0000ff"
+       stroke-width="8px"
+       id="circle4" />
+    <!-- Circle -->
+    <circle
+       cx="1665"
+       cy="2025"
+       r="45"
+       fill="#ff0000"
+       stroke="#ff0000"
+       stroke-width="8px"
+       id="circle6" />
+    <!-- Line -->
+    <polyline
+       points=" 630,2655 1080,2115"
+       stroke="#0000ff"
+       stroke-width="8px"
+       id="polyline8" />
+    <!-- Line -->
+    <polyline
+       points=" 630,2655 945,900"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline10" />
+    <!-- Line -->
+    <polyline
+       points=" 1665,2025 630,2655"
+       stroke="#ff0000"
+       stroke-width="8px"
+       id="polyline12" />
+    <!-- Line -->
+    <polyline
+       points=" 851,1730 1166,1685"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline14" />
+    <!-- Line -->
+    <polyline
+       points=" 1172,2488 1487,2443"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline16" />
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1215"
+       y="855"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text18">z</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1305"
+       y="900"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="96"
+       text-anchor="start"
+       id="text20">2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1035"
+       y="855"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text22">z</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1125"
+       y="900"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="96"
+       text-anchor="start"
+       id="text24">1</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1215"
+       y="1710"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text26">ρ</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1305"
+       y="1800"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="96"
+       text-anchor="start"
+       id="text28">1</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1395"
+       y="1710"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text30">ρ</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1485"
+       y="1800"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="96"
+       text-anchor="start"
+       id="text32">2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1845"
+       y="2475"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text34">ϕ</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1935"
+       y="2520"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="96"
+       text-anchor="start"
+       id="text36">2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1530"
+       y="2475"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text38">ϕ</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1620"
+       y="2520"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="96"
+       text-anchor="start"
+       id="text40">1</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1710"
+       y="2475"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text42">+</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="720"
+       y="495"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text44">Im{z}</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2700"
+       y="2880"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text46">Re{z}</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1170"
+       y="2025"
+       fill="#0000ff"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text48">z</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1260"
+       y="2070"
+       fill="#0000ff"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="96"
+       text-anchor="start"
+       id="text50">2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1800"
+       y="2025"
+       fill="#ff0000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text52">z</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1890"
+       y="2070"
+       fill="#ff0000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="96"
+       text-anchor="start"
+       id="text54">1</text>
+    <!-- Arc -->
+    <path
+       d="M 1125,2655 A 544 544 0 0 0 720 2160"
+       stroke="#000000"
+       stroke-width="8px"
+       id="path56" />
+    <!-- Line -->
+    <defs
+       id="defs61">
+      <clipPath
+         id="cp0">
+        <path
+           clip-rule="evenodd"
+           d="M 123,348 H 3222 V 3162 H 123 z   M 2624,2590 2624,2688 2842,2646 2842,2632z"
+           id="path58" />
+      </clipPath>
+    </defs>
+    <polyline
+       points=" 2835,2639 135,2639"
+       clip-path="url(#cp0)"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline63" />
+    <!-- Backward arrow to point 2835,2639 -->
+    <polygon
+       points=" 2624,2688 2819,2639 2624,2590 2624,2688"
+       stroke="#000000"
+       stroke-width="8px"
+       stroke-miterlimit="8"
+       fill="#000000"
+       id="polygon65" />
+    <!-- Line -->
+    <defs
+       id="defs70">
+      <clipPath
+         id="cp1">
+        <path
+           clip-rule="evenodd"
+           d="M 123,348 H 3222 V 3162 H 123 z   M 581,661 679,661 637,443 623,443z"
+           id="path67" />
+      </clipPath>
+    </defs>
+    <polyline
+       points=" 630,450 630,3150"
+       clip-path="url(#cp1)"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline72" />
+    <!-- Backward arrow to point 630,450 -->
+    <polygon
+       points=" 679,661 630,466 581,661 679,661"
+       stroke="#000000"
+       stroke-width="8px"
+       stroke-miterlimit="8"
+       fill="#000000"
+       id="polygon74" />
+  </g>
+</svg>

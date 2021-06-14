@@ -6,7 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+    
+    {% if page.custom_css %}
+    {% for stylesheet in page.custom_css %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ stylesheet }}.css">
+    {% endfor %}
+    {% else %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% endif %}
     
     <!-- LR: From https://realfavicongenerator.net/ -->
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
@@ -87,3 +94,30 @@
     {% endif %}
   </body>
 </html>
+
+<!-- LR: Enable MathJax (see http://webdocs.cs.ualberta.ca/~zichen2/blog/coding/setup/2019/02/17/how-to-add-mathjax-support-to-jekyll.html) -->
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+</script>
+<script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<!-- 
+<script async
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+-->
+
+<!-- LR: configure MathJax to recognize all math-mode delimiters (see https://docs.mathjax.org/en/v2.7-latest/configuration.html) -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+      processEscapes: true
+    },
+  });
+</script>
+

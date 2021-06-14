@@ -38,9 +38,11 @@ launcher is subject to small random variations.
 
 Truly random variations average to zero, and so the way to remove
 them is to average several measurements,
+
 \begin{equation}
-\bar{x} = \frac{1}{N} \sum_{i=1}^N x_i
+  \bar{x} = \frac{1}{N} \sum_{i=1}^N x_i
 \end{equation}
+
 The \textbf{average value}, or \textbf{mean value}, $\bar{x}$
 approaches the ``true value'' as the number of measurements in the
 average approaches infinity. Finding the ``true value'' is
@@ -54,9 +56,12 @@ Random variations are described by the normal distribution, or
 Gaussian distribution, or ``bell curve.''  The uncertainty in the
 ``best value'' of a large collection of normally distributed
 measurements can be calculated using the \textbf{standard deviation}
+
 \begin{equation} 
 \sigma_x = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \bar{x})^2} 
 \end{equation}
+
+\noindent
 which describes the width of the distribution. More precisely, about
 68\% of a normal distribution falls within $\pm \sigma$ of the average
 value. The standard deviation is the uncertainty in a single
@@ -68,9 +73,11 @@ The uncertainty in the average of a collection of measurements is less
 than $\sigma$. This follows from the idea that the more measurements
 we make, the closer the average value comes to the ``true value.'' The
 \textbf{standard deviation of the mean} is given by 
+
 \begin{equation}
 \sigma_{\bar{x}} = \frac{\sigma}{\sqrt{N}} 
 \end{equation}
+
 We report this as the uncertainty in $\bar{x}$. (The \texttt{sqrt()} function
 of your spreadsheet or \texttt{numpy} computes square roots.)
 
@@ -128,6 +135,7 @@ quadrature.}
 \end{quote}
 
 For example, if $d = a+b-c$, then 
+
 \begin{equation}
 \sigma_d = \sqrt{\sigma_a^2+\sigma_b^2+\sigma_c^2}
 \end{equation}
@@ -140,6 +148,7 @@ uncertainties in quadrature.}
 \end{quote}
 
 For example, if $d = \frac{ab}{c}$, then
+
 \begin{equation}
 \frac{\sigma_d}{d} = \sqrt{
 \left( \frac{\sigma_a}{a} \right)^2
@@ -147,8 +156,10 @@ For example, if $d = \frac{ab}{c}$, then
 +\left( \frac{\sigma_c}{c} \right)^2
 }
 \end{equation}
+
 When raising a value to a power, multiply its relative error by the
 power. For example, if $d = \frac{a^lb^m}{c^n}$
+
 \begin{equation}
 \frac{\sigma_d}{d} = \sqrt{
 \left(l \frac{\sigma_a}{a} \right)^2
@@ -166,14 +177,13 @@ power. For example, if $d = \frac{a^lb^m}{c^n}$
 \end{quote}
 
 If a quantity $f$ is a function of the measured quantities $a, b, c,
-...$, then 
+...$, then
+
 \begin{equation}
 \sigma_f = \sqrt{
 \left(\frac{\partial f}{\partial a} \right)^2 \sigma_a^2
 +\left(\frac{\partial f}{\partial b} \right)^2 \sigma_b^2
-+\left(\frac{\partial f}{\partial c} \right)^2 \sigma_c^2 
-+ ...
-}
++\left(\frac{\partial f}{\partial c} \right)^2 \sigma_c^2 + ...}
 \end{equation}
 
 \subsubsection*{In General (Better Approximation)}
@@ -184,21 +194,34 @@ input quantity, and add the variations in quadrature. In some cases,
 upper and lower uncertainties differ.}
 
 For example, if $d = a \log b$, the individual variances are 
-\begin{eqnarray}
-\nonumber
-\sigma_{da+} &=& |(a+\sigma_a) \log b - d|\\
-\nonumber
-\sigma_{da-} &=& |(a-\sigma_a) \log b - d|\\
-\nonumber
-\sigma_{db+} &=& |a \log (b+\sigma_b) - d|\\
-\sigma_{db-} &=& |a \log (b-\sigma_b) - d|
-\end{eqnarray}
+
+\begin{equation}
+\sigma_{da+} = |(a+\sigma_a) \log b - d|
+\end{equation}
+  
+\begin{equation}
+\sigma_{da-} = |(a-\sigma_a) \log b - d|
+\end{equation}
+
+\begin{equation}
+\sigma_{db+} = |a \log (b+\sigma_b) - d|
+\end{equation}
+
+\begin{equation}
+\sigma_{db-} = |a \log (b-\sigma_b) - d|
+\end{equation}
+
+\noindent
 and the upper and lower uncertainties are
-\begin{eqnarray}
-\nonumber
-\sigma_{d+} &=& \sqrt{\sigma_{da+}^2 + \sigma_{db+}^2}\\
-\sigma_{d-} &=& \sqrt{\sigma_{da-}^2 + \sigma_{db-}^2}
-\end{eqnarray}
+
+\begin{equation}
+\sigma_{d+} = \sqrt{\sigma_{da+}^2 + \sigma_{db+}^2}
+\end{equation}
+
+\begin{equation}
+\sigma_{d-} = \sqrt{\sigma_{da-}^2 + \sigma_{db-}^2}
+\end{equation}
+
 This kind of analysis is a good job for a spreadsheet or a Python 
 program. This method is approximate, because interactions between 
 variables are neglected.
@@ -208,9 +231,11 @@ variables are neglected.
 \subsubsection*{Explicit Uncertainties}
 
 Results with uncertainties are typically reported in the form
+
 \begin{equation}
 x \pm \sigma_x 
 \end{equation}
+
 Units are \textit{always} included, and are usually given after the
 result and its uncertainty. It is common practice to round
 uncertainties to one significant figure. Results should be rounded off
@@ -219,13 +244,17 @@ if an analysis of several measurements of my height reveals an average
 of $\bar{h} = 1.8037$~m with a standard deviation of the mean of
 $\sigma_{\bar{h}} = 0.00566$~m, I report my height as $h = 1.804 \pm
 0.006$~m. The form
+
 \begin{equation}
 x(\sigma_x)
 \end{equation}
+
+\noindent
 is also sometimes used, where the uncertainty is given as a single
 digit. In this form, my height is $h = 1.804(6)$~m. The uncertainty is
 assumed to be in the last reported digit of the result. With
 asymmetric uncertainties, one uses the form 
+
 \begin{equation}
 x^{+\sigma_{x+}}_{-\sigma_{x-}}
 \end{equation}
@@ -292,7 +321,7 @@ uncertainty, you imply an uncertainty with the number of
   \url{http://creativecommons.org/licenses/by-sa/4.0/}.\\
 
   \noindent
-  L.A. Riley (\texttt{lriley@ursinus.edu}), updated \today
+  L.A. Riley (\texttt{lriley@ursinus.edu}), updated June 2021
 }
 
 \end{document}

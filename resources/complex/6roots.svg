@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.7a -->
+
+<!-- CreationDate: 2021-06-13 15:17:08 -->
+
+<!-- Magnification: 1.05 -->
+
+<svg
+   width="213pt"
+   height="186pt"
+   viewBox="438 213 3369 2949"
+   version="1.1"
+   id="svg108"
+   sodipodi:docname="6roots.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   inkscape:export-filename="/home/lriley/www/rileyle.github.io/resources/complex/6roots.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs112" />
+  <sodipodi:namedview
+     id="namedview110"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.9435484"
+     inkscape:cx="141.23651"
+     inkscape:cy="124"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg108" />
+  <rect
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:23.7823;stroke-dashoffset:23.5999"
+     id="rect136"
+     width="3358.8542"
+     height="2930.5525"
+     x="441.46533"
+     y="214.44031" />
+  <g
+     fill="none"
+     id="g106">
+    <!-- Circle -->
+    <circle
+       cx="1800"
+       cy="1800"
+       r="900"
+       stroke="#0000ff"
+       stroke-width="8px"
+       id="circle2" />
+    <!-- Line -->
+    <polyline
+       points=" 1350,2579 1800,1800"
+       stroke="#0000ff"
+       stroke-width="8px"
+       id="polyline4" />
+    <!-- Line -->
+    <polyline
+       points=" 1800,1800 2250,1021"
+       stroke="#0000ff"
+       stroke-width="8px"
+       id="polyline6" />
+    <!-- Line -->
+    <polyline
+       points=" 1800,1800 1350,1021"
+       stroke="#0000ff"
+       stroke-width="8px"
+       id="polyline8" />
+    <!-- Line -->
+    <polyline
+       points=" 2250,2579 1800,1800"
+       stroke="#0000ff"
+       stroke-width="8px"
+       id="polyline10" />
+    <!-- Line -->
+    <polyline
+       points=" 2745,1980 2790,2070 2790,1890 2925,1890"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline12" />
+    <!-- Line -->
+    <polyline
+       points=" 675,1980 720,2070 720,1890 855,1890"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline14" />
+    <!-- Line -->
+    <polyline
+       points=" 2340,945 2385,1035 2385,855 2520,855"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline16" />
+    <!-- Line -->
+    <polyline
+       points=" 2340,945 2385,1035 2385,855 2520,855"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline18" />
+    <!-- Line -->
+    <polyline
+       points=" 540,945 585,1035 585,855 720,855"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline20" />
+    <!-- Line -->
+    <polyline
+       points=" 540,2745 585,2835 585,2655 720,2655"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline22" />
+    <!-- Line -->
+    <polyline
+       points=" 2340,2745 2385,2835 2385,2655 2520,2655"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline24" />
+    <!-- Circle -->
+    <circle
+       cx="2700"
+       cy="1800"
+       r="45"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="8px"
+       id="circle26" />
+    <!-- Circle -->
+    <circle
+       cx="900"
+       cy="1800"
+       r="45"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="8px"
+       id="circle28" />
+    <!-- Circle -->
+    <circle
+       cx="1350"
+       cy="2572"
+       r="45"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="8px"
+       id="circle30" />
+    <!-- Circle -->
+    <circle
+       cx="2242"
+       cy="2580"
+       r="45"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="8px"
+       id="circle32" />
+    <!-- Circle -->
+    <circle
+       cx="2242"
+       cy="1035"
+       r="45"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="8px"
+       id="circle34" />
+    <!-- Circle -->
+    <circle
+       cx="1350"
+       cy="1027"
+       r="45"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="8px"
+       id="circle36" />
+    <!-- Line -->
+    <defs
+       id="defs41">
+      <clipPath
+         id="cp0">
+        <path
+           clip-rule="evenodd"
+           d="M 438,213 H 3807 V 3162 H 438 z   M 3164,1751 3164,1849 3382,1807 3382,1793z"
+           id="path38" />
+      </clipPath>
+    </defs>
+    <polyline
+       points=" 3375,1800 450,1800"
+       clip-path="url(#cp0)"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline43" />
+    <!-- Backward arrow to point 3375,1800 -->
+    <polygon
+       points=" 3164,1849 3359,1800 3164,1751 3164,1849"
+       stroke="#000000"
+       stroke-width="8px"
+       stroke-miterlimit="8"
+       fill="#000000"
+       id="polygon45" />
+    <!-- Line -->
+    <defs
+       id="defs50">
+      <clipPath
+         id="cp1">
+        <path
+           clip-rule="evenodd"
+           d="M 438,213 H 3807 V 3162 H 438 z   M 1751,481 1849,481 1807,263 1793,263z"
+           id="path47" />
+      </clipPath>
+    </defs>
+    <polyline
+       points=" 1800,270 1800,3150"
+       clip-path="url(#cp1)"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline52" />
+    <!-- Backward arrow to point 1800,270 -->
+    <polygon
+       points=" 1849,481 1800,286 1751,481 1849,481"
+       stroke="#000000"
+       stroke-width="8px"
+       stroke-miterlimit="8"
+       fill="#000000"
+       id="polygon54" />
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2835"
+       y="2070"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text56">2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="765"
+       y="2070"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text58">2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2430"
+       y="1035"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text60">2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2745"
+       y="945"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text62">π/3</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2700"
+       y="945"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text64">i</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2610"
+       y="1035"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text66">e</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2430"
+       y="1035"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text68">2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2745"
+       y="945"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text70">π/3</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2700"
+       y="945"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text72">i</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2610"
+       y="1035"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text74">e</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="630"
+       y="1035"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text76">2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="945"
+       y="945"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text78">2π/3</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="900"
+       y="945"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text80">i</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="810"
+       y="1035"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text82">e</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="630"
+       y="2835"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text84">2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="945"
+       y="2745"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text86">4π/3</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="900"
+       y="2745"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text88">i</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="810"
+       y="2835"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text90">e</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2430"
+       y="2835"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text92">2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2745"
+       y="2745"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text94">5π/3</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2700"
+       y="2745"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text96">i</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="540"
+       y="2025"
+       fill="#000000"
+       font-family="Times,Symbol"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text98">−</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2610"
+       y="2835"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text100">e</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="3285"
+       y="2025"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text102">Re{z}</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1890"
+       y="360"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text104">Im{z}</text>
+  </g>
+</svg>

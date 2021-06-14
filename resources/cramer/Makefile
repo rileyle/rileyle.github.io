@@ -1,15 +1,17 @@
-# List the targets to generate.
-all: cramer.pdf
+all: cramer.pdf cramer.md
 	echo "all : done.";echo
 
-# Pattern rule for generating Postscript from LaTex files.
-# (Latex three times to process references and table of contents.)
-cramer.pdf : cramer.tex 
-	pdflatex cramer
-	pdflatex cramer
+# Pattern rule for generating Markdown from LaTeX files.
+%.md : %.tex
+	pandoc --mathjax -f latex-auto_identifiers -s $*.yaml $*.tex  -t markdown-header_attributes -o $*.md
+
+# Pattern rule for generating PDF from LaTeX files.
+%.pdf : %.tex 
+	pdflatex $*
+	pdflatex $*
 	rm *.aux *.log *.out
-	echo "cramer.pdf : done."
+	echo "$*.pdf : done."
 
 clean:
-	rm -f *.aux *.log *.out *.pdf
+	rm -f *.aux *.log *.out *.md *.pdf
 	echo "clean : done.";echo

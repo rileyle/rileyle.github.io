@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.7a -->
+
+<!-- CreationDate: 2021-06-13 15:47:36 -->
+
+<!-- Magnification: 1.05 -->
+
+<svg
+   width="355pt"
+   height="222pt"
+   viewBox="304 472 5635 3514"
+   version="1.1"
+   id="svg128"
+   sodipodi:docname="proj.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   inkscape:export-filename="/home/lriley/www/rileyle.github.io/resources/quadratic/proj.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs132" />
+  <sodipodi:namedview
+     id="namedview130"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.6283784"
+     inkscape:cx="236.73859"
+     inkscape:cy="148"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg128" />
+  <rect
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:23.8099;stroke-dashoffset:23.5999"
+     id="rect156"
+     width="5614.54"
+     height="3516.3799"
+     x="313.0455"
+     y="476.15945" />
+  <g
+     fill="none"
+     id="g126">
+    <!-- Line -->
+    <polyline
+       points=" 3675,1710 3675,3240"
+       stroke="#000000"
+       stroke-width="8px"
+       stroke-dasharray="10 30"
+       id="polyline2" />
+    <!-- Line -->
+    <polyline
+       points=" 2273,1710 2273,3240"
+       stroke="#000000"
+       stroke-width="8px"
+       stroke-dasharray="10 30"
+       id="polyline4" />
+    <!-- Line -->
+    <polyline
+       points=" 2970,1485 2970,3240"
+       stroke="#000000"
+       stroke-width="8px"
+       stroke-dasharray="10 30"
+       id="polyline6" />
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1845"
+       y="1620"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text8">0.27 s</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="3735"
+       y="1620"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text10">0.75 s</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2790"
+       y="1440"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="144"
+       text-anchor="start"
+       id="text12">0.51 s</text>
+    <!-- Line -->
+    <polyline
+       points=" 1447,3225 1522,3225"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline14" />
+    <!-- Line -->
+    <polyline
+       points=" 5917,3225 5842,3225"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline16" />
+    <!-- Line -->
+    <polyline
+       points=" 1447,2846 1522,2846"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline18" />
+    <!-- Line -->
+    <polyline
+       points=" 5917,2846 5842,2846"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline20" />
+    <!-- Line -->
+    <polyline
+       points=" 1447,2466 1522,2466"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline22" />
+    <!-- Line -->
+    <polyline
+       points=" 5917,2466 5842,2466"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline24" />
+    <!-- Line -->
+    <polyline
+       points=" 1447,2087 1522,2087"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline26" />
+    <!-- Line -->
+    <polyline
+       points=" 5917,2087 5842,2087"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline28" />
+    <!-- Line -->
+    <polyline
+       points=" 1447,1708 1522,1708"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline30" />
+    <!-- Line -->
+    <polyline
+       points=" 5917,1708 5842,1708"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline32" />
+    <!-- Line -->
+    <polyline
+       points=" 1447,1329 1522,1329"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline34" />
+    <!-- Line -->
+    <polyline
+       points=" 5917,1329 5842,1329"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline36" />
+    <!-- Line -->
+    <polyline
+       points=" 1447,949 1522,949"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline38" />
+    <!-- Line -->
+    <polyline
+       points=" 5917,949 5842,949"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline40" />
+    <!-- Line -->
+    <polyline
+       points=" 1447,570 1522,570"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline42" />
+    <!-- Line -->
+    <polyline
+       points=" 5917,570 5842,570"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline44" />
+    <!-- Line -->
+    <polyline
+       points=" 1447,3225 1447,3150"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline46" />
+    <!-- Line -->
+    <polyline
+       points=" 1447,570 1447,645"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline48" />
+    <!-- Line -->
+    <polyline
+       points=" 2043,3225 2043,3150"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline50" />
+    <!-- Line -->
+    <polyline
+       points=" 2043,570 2043,645"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline52" />
+    <!-- Line -->
+    <polyline
+       points=" 2639,3225 2639,3150"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline54" />
+    <!-- Line -->
+    <polyline
+       points=" 2639,570 2639,645"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline56" />
+    <!-- Line -->
+    <polyline
+       points=" 3235,3225 3235,3150"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline58" />
+    <!-- Line -->
+    <polyline
+       points=" 3235,570 3235,645"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline60" />
+    <!-- Line -->
+    <polyline
+       points=" 3831,3225 3831,3150"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline62" />
+    <!-- Line -->
+    <polyline
+       points=" 3831,570 3831,645"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline64" />
+    <!-- Line -->
+    <polyline
+       points=" 4427,3225 4427,3150"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline66" />
+    <!-- Line -->
+    <polyline
+       points=" 4427,570 4427,645"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline68" />
+    <!-- Line -->
+    <polyline
+       points=" 5023,3225 5023,3150"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline70" />
+    <!-- Line -->
+    <polyline
+       points=" 5023,570 5023,645"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline72" />
+    <!-- Line -->
+    <polyline
+       points=" 5619,3225 5619,3150"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline74" />
+    <!-- Line -->
+    <polyline
+       points=" 5619,570 5619,645"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline76" />
+    <!-- Line -->
+    <polyline
+       points=" 1447,3225 5917,3225 5917,570 1447,570 1447,3225"
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline78" />
+    <!-- Line -->
+    <polyline
+       points=" 1447,2466 1492,2410 1537,2355 1582,2302 1628,2250 1673,2200 1718,2152 1763,2106  1808,2061 1853,2018 1899,1977 1944,1938 1989,1900 2034,1864 2079,1829 2124,1796  2169,1765 2215,1736 2260,1708 2305,1683 2350,1658 2395,1636 2440,1615 2485,1596  2531,1579 2576,1563 2621,1549 2666,1537 2711,1526 2756,1518 2802,1510 2847,1505  2892,1501 2937,1499 2982,1499 3027,1500 3072,1503 3118,1508 3163,1515 3208,1523  3253,1533 3298,1545 3343,1558 3389,1573 3434,1590 3479,1608 3524,1629 3569,1650  3614,1674 3659,1699 3705,1726 3750,1755 3795,1785 3840,1818 3885,1851 3930,1887  3975,1924 4021,1963 4066,2004 4111,2046 4156,2090 4201,2136 4246,2184 4292,2233  4337,2284 4382,2336 4427,2391 4472,2447 4517,2504 4562,2564 4608,2625 4653,2688  4698,2752 4743,2819 4788,2887 4833,2956 4879,3028 4924,3101 4969,3175 4998,3225 "
+       stroke="#000000"
+       stroke-width="15px"
+       id="polyline80" />
+    <!-- Line -->
+    <polyline
+       points=" 1447,1708 1492,1708 1537,1708 1582,1708 1628,1708 1673,1708 1718,1708 1763,1708  1808,1708 1853,1708 1899,1708 1944,1708 1989,1708 2034,1708 2079,1708 2124,1708  2169,1708 2215,1708 2260,1708 2305,1708 2350,1708 2395,1708 2440,1708 2485,1708  2531,1708 2576,1708 2621,1708 2666,1708 2711,1708 2756,1708 2802,1708 2847,1708  2892,1708 2937,1708 2982,1708 3027,1708 3072,1708 3118,1708 3163,1708 3208,1708  3253,1708 3298,1708 3343,1708 3389,1708 3434,1708 3479,1708 3524,1708 3569,1708  3614,1708 3659,1708 3705,1708 3750,1708 3795,1708 3840,1708 3885,1708 3930,1708  3975,1708 4021,1708 4066,1708 4111,1708 4156,1708 4201,1708 4246,1708 4292,1708  4337,1708 4382,1708 4427,1708 4472,1708 4517,1708 4562,1708 4608,1708 4653,1708  4698,1708 4743,1708 4788,1708 4833,1708 4879,1708 4924,1708 4969,1708 5014,1708  5059,1708 5104,1708 5149,1708 5195,1708 5240,1708 5285,1708 5330,1708 5375,1708  5420,1708 5465,1708 5511,1708 5556,1708 5601,1708 5646,1708 5691,1708 5736,1708  5782,1708 5827,1708 5872,1708 5917,1708"
+       stroke="#0000ff"
+       stroke-width="15px"
+       id="polyline82" />
+    <!-- Circle -->
+    <circle
+       cx="2274"
+       cy="1702"
+       r="23"
+       fill="#ff0000"
+       stroke="#ff0000"
+       stroke-width="8px"
+       id="circle84" />
+    <!-- Circle -->
+    <circle
+       cx="3675"
+       cy="1706"
+       r="23"
+       fill="#ff0000"
+       stroke="#ff0000"
+       stroke-width="8px"
+       id="circle86" />
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1312"
+       y="3337"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="end"
+       id="text88">-2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1312"
+       y="2958"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="end"
+       id="text90">-1.5</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1312"
+       y="2578"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="end"
+       id="text92">-1</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1312"
+       y="2199"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="end"
+       id="text94">-0.5</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1312"
+       y="1820"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="end"
+       id="text96">0</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1312"
+       y="1441"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="end"
+       id="text98">0.5</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1312"
+       y="1061"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="end"
+       id="text100">1</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1312"
+       y="682"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="end"
+       id="text102">1.5</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1447"
+       y="3562"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="middle"
+       id="text104">0</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2043"
+       y="3562"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="middle"
+       id="text106">0.2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2639"
+       y="3562"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="middle"
+       id="text108">0.4</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="3235"
+       y="3562"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="middle"
+       id="text110">0.6</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="3831"
+       y="3562"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="middle"
+       id="text112">0.8</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="4427"
+       y="3562"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="middle"
+       id="text114">1</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="5023"
+       y="3562"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="middle"
+       id="text116">1.2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="5619"
+       y="3562"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="middle"
+       id="text118">1.4</text>
+    <!-- Text -->
+    <g
+       transform="translate(524,2010) rotate(-90)"
+       id="g122">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         fill="#000000"
+         font-family="Times"
+         font-style="normal"
+         font-weight="normal"
+         font-size="216"
+         text-anchor="middle"
+         id="text120">y [m]</text>
+    </g>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="3682"
+       y="3899"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="216"
+       text-anchor="middle"
+       id="text124">t [s]</text>
+  </g>
+</svg>
