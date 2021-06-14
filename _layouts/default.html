@@ -95,19 +95,13 @@
   </body>
 </html>
 
-<!-- LR: Enable MathJax (see http://webdocs.cs.ualberta.ca/~zichen2/blog/coding/setup/2019/02/17/how-to-add-mathjax-support-to-jekyll.html) -->
+<!-- LR: Enable MathJax (see http://webdocs.cs.ualberta.ca/~zichen2/blog/coding/setup/2019/02/17/how-to-add-mathjax-support-to-jekyll.html but use "all" instead of "AMS" for equation numbering to work.) -->
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
-      TeX: { equationNumbers: { autoNumber: "AMS" } }
+      TeX: { equationNumbers: { autoNumber: "all" } }
   });
 </script>
 <script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
-<!-- 
-<script async
-  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
--->
 
 <!-- LR: configure MathJax to recognize all math-mode delimiters (see https://docs.mathjax.org/en/v2.7-latest/configuration.html) -->
 
