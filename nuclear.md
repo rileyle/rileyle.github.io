@@ -23,4 +23,4 @@ We are using the Super Enge Split-Pole Spectrograph (SPS) at FSU to measure high
 >
 > <SMALL><SUP>50</SUP>Ti(d, p)<SUP>51</SUP>Ti: Single-neutron energies in  the N = 29 isotones, and the N = 32 subshell closure,  L. A. Riley, <B>J. M. Nebel-Crosson</B>, K. T. Macon, G. W. McCann,  L. T. Baby, D. Caussyn, P. D. Cottle, J. Esparza, K. Hanselman, K. W. Kemper,  E. Temanson, and I. Wiedenh&#246;ver, <A HREF="https://doi.org/10.1103/PhysRevC.103.064309">Phys. Rev. C <B>103</B>, 064309 (2021)</A>, [arXiv:2106.05781](https://arxiv.org/abs/2106.05781).</SMALL>
 
-We are currently working on a remeasurement of <SUP>54</SUP>Fe(d,p)<SUP>55</SUP>Fe where the <I>p<SUB>1/2</SUB> - p<SUB>3/2</SUB></I> energy gap apparently drops significantly.
+We are currently working on a remeasurements of <SUP>52</SUP>Cr(d,p)<SUP>53</SUP>Cr and <SUP>54</SUP>Fe(d,p)<SUP>55</SUP>Fe to better understand the apparent, drop in the <I>p<SUB>1/2</SUB> - p<SUB>3/2</SUB></I> energy gap between calcium and nickel.
