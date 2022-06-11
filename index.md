@@ -1,7 +1,6 @@
 ## Lew Riley
 
 Professor at [Ursinus College](https://www.ursinus.edu)<BR />
-Chair of [Physics and Astronomy](https://www.ursinus.edu/academics/physics-and-astronomy/)<BR />
 [Pre-Engineering](https://www.ursinus.edu/academics/pre-engineering/) Coordinator<BR />
 [lriley@ursinus.edu](mailto:lriley@ursinus.edu)<BR />
 he|him
