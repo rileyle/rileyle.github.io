@@ -6,15 +6,15 @@
 - M.S., Physics, Florida State University, 1995 
 - B.S., Physics, Guilford College, 1992
 
-#### Fellowships and Internships
+### Field of Research : Experimental Nuclear Structure
 
-- Fulbright Fellowship, Bergische Universit&#228;t Gesamthochschule Wuppertal, Wuppertal, Germany, 1992-93 
-
-- AIP Summer Internship, Southwest Research Institute, San Antonio, Texas, 1992 
-
-### Experience
+### Professional Experience
 
 - Professor, Department of Physics and Astronomy, Ursinus College, 2011-present
+
+  - Pre-Engineering Coordinator, 2014-present
+
+  - Chair, Department of Physics and Astronomy, 2017-2022
 
 - Associate Professor, Department of Physics and Astronomy, Ursinus College, 2006-2011
 
@@ -27,6 +27,14 @@
 - Research Assistant, Physics Department, Florida State University, 1994-97
 
 - Teaching Assistant, Physics Department, Florida State University, 1993-94
+
+- Fulbright Fellowship, Bergische Universit&#228;t Gesamthochschule Wuppertal, Wuppertal, Germany, 1992-93 
+
+- AIP Summer Internship, Southwest Research Institute, San Antonio, Texas, 1992 
+
+### Languages : English (native), German
+
+---
 
 ### Recent Courses
 
@@ -47,10 +55,6 @@
 - PHYS410 : Classical Mechanics
 
 - CIE100 : Common Intellectual Experience
-
-### Field of Research : Experimental Nuclear Structure
-
-### Languages : English (native), German
 
 ---
 
