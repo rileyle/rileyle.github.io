@@ -60,6 +60,8 @@
 
 ### Grants and Awards
 
+- National Science Foundation, Research in Undergraduate Institutions (RUI) Grant <A HREF="http://www.nsf.gov/awardsearch/showAward?AWD_ID=2208804">PHY-2208804</A>, "RUI: Shell Structure and Collective Excitations in Exotic Nuclei," $152,151, supporting research in experimental nuclear structure with undergraduates (2022-2025).
+
 - National Science Foundation, Research in Undergraduate Institutions (RUI) Grant <A HREF="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1617250">PHY-1617250</A>, "RUI: Shell Structure and Core Polarization in Exotic Nuclei," $135,000, supporting research in experimental nuclear structure with undergraduates (2016-2019).
 
 - National Science Foundation, Research in Undergraduate Institutions (RUI) Grant <A HREF="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1303480">PHY-1303480</A>, "RUI: Shell Structure and Core Polarization in Exotic Nuclei," $128,493, supporting research in experimental nuclear structure with undergraduates (2013-2016).
