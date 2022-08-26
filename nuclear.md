@@ -2,6 +2,8 @@
 
 The Ursinus College Nuclear Structure Group collaborates with nuclear scientists on experiments at accelerator laboratories like FSU and FRIB. Our experimental work is focused on understanding the interplay between collective nuclear behavior, such as vibrations and rotations of the entire system, and the behavior of the individual protons and neutrons within it. 
 
+Our work is funded by National Science Foundation Grant No. [PHY-2208804, “RUI: Shell Structure and Collective Excitations in Exotic Nuclei"](http://www.nsf.gov/awardsearch/showAward?AWD_ID=2208804).
+
 ### Inverse-Kinematics Proton Scattering at the NSCL/FRIB
 
 An ongoing project is a systematic study of proton and neutron contributions to collective excitations of N=28 isotones "south" of <SUP>48</SUP>Ca, using the GRETINA gamma-ray tracking array and the NSCL/Ursinus liquid hydrogen target. There significant experimental evidence for the erosion of the N=28 shell approaching  <SUP>42</SUP>Si. We would very much like to expand this experimental picture to <SUP>42</SUP>Si at FRIB.
