@@ -2,7 +2,7 @@
 
 Professor at [Ursinus College](https://www.ursinus.edu)<BR />
 [Pre-Engineering](https://www.ursinus.edu/academics/pre-engineering/) Coordinator<BR />
-[lriley@ursinus.edu](mailto:lriley@ursinus.edu)<BR />
+[lriley@ursinus.edu](mailto:lriley@ursinus.edu), [@lewriley@mas.to](https://mas.to/@lewriley)<BR />
 he|him
 
 ### Fall 2022 Courses
