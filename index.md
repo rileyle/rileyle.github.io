@@ -14,7 +14,7 @@ he|him
 
 ### Summer 2022
 
-Mill Heinze (UC Physics '24) Dylan Symms (UC Physics '24) were at the [Fox Lab at Florida State University](http://fsunuc.physics.fsu.edu/research/fox_lab/), using the 9 MV Tandem Van de Graaff accelerator to shoot a beam of deuterons at a <SUP>52</SUP>Cr target. They studied the neutron transfer reaction <SUP>52</SUP>Cr + d &rarr; <SUP>53</SUP>Cr + p by measuring the momentums of protons produced in the reaction with the Super Enge Split Pole Spectrograph. Their work will improve the experimental picture of neutron shell structure beyond the N=28 major shell.
+Mill Heinze (UC Physics '24) and Dylan Symms (UC Physics '23) were at the [Fox Lab at Florida State University](http://fsunuc.physics.fsu.edu/research/fox_lab/), using the 9 MV Tandem Van de Graaff accelerator to shoot a beam of deuterons at a <SUP>52</SUP>Cr target. They studied the neutron transfer reaction <SUP>52</SUP>Cr + d &rarr; <SUP>53</SUP>Cr + p by measuring the momentums of protons produced in the reaction with the Super Enge Split Pole Spectrograph. Their work will improve the experimental picture of neutron shell structure beyond the N=28 major shell.
 
 ### Spring 2022 Courses
 

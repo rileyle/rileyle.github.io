@@ -25,4 +25,15 @@ We are using the Super Enge Split-Pole Spectrograph (SPS) at FSU to measure high
 >
 > <SMALL><SUP>50</SUP>Ti(d, p)<SUP>51</SUP>Ti: Single-neutron energies in  the N = 29 isotones, and the N = 32 subshell closure,  L. A. Riley, <B>J. M. Nebel-Crosson</B>, K. T. Macon, G. W. McCann,  L. T. Baby, D. Caussyn, P. D. Cottle, J. Esparza, K. Hanselman, K. W. Kemper,  E. Temanson, and I. Wiedenh&#246;ver, <A HREF="https://doi.org/10.1103/PhysRevC.103.064309">Phys. Rev. C <B>103</B>, 064309 (2021)</A>, [arXiv:2106.05781](https://arxiv.org/abs/2106.05781).</SMALL>
 
-We are currently working on a remeasurements of <SUP>52</SUP>Cr(d,p)<SUP>53</SUP>Cr and <SUP>54</SUP>Fe(d,p)<SUP>55</SUP>Fe to better understand the apparent, drop in the <I>p<SUB>1/2</SUB> - p<SUB>3/2</SUB></I> energy gap between calcium and nickel.
+In summer of 2021, we made a measurement of <SUP>54</SUP>Fe(d, p)<SUP>55</SUP>Fe.
+
+> <img src="assets/img/sn_energies_fe.png" width=300>
+>
+> (a) Measured f 5/2 and p 1/2 single neutron energy centroids, relative to the <I>p<SUB>3/2</SUB></I> energy compared with covariant density functional theory. (b) Single neutron binding energies
+> calculated using covariant density functional theory.
+>
+> <SMALL><SUP>54</SUP>Fe(d, p)<SUP>55</SUP>Fe and the evolution of single neutron energies in the N=29 isotones, L. A. Riley, <B>I. C. S. Hay</B>, L. T. Baby, A. L. Conley, P. D. Cottle, J. Esparza, K. Hanselman, B. Kelly, K. W. Kemper, K. T. Macon, G. W. McCann, <B>M. W. Quirin</B>, R. Renom, <B>R. L. Saunders</B>, M. Spieker, and I. Wiedenh&#246;ver, <A HREF="https://doi.org/10.1103/PhysRevC.106.064308">Phys. Rev. C <B>106</B>, 064308 (2022)</A>.</SMALL>
+
+We are currently working on the analysis of a a remeasurement of <SUP>52</SUP>Cr(d,p)<SUP>53</SUP>Cr, made in summer of 2022, to better understand the apparent, drop in the <I>p<SUB>1/2</SUB> - p<SUB>3/2</SUB></I> energy gap between calcium and nickel.
+
+
