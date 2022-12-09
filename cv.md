@@ -25,15 +25,16 @@
 ---
 
 ### Recent Courses
-- PHYS111Q and PHYS112 : General Physics I and II
-- PHYS121Q : Spacetime and Quantum Physics
-- PHYS122Q : Electricty, Magnetism, and Waves
-- PHYS201 : Introductory Classical Mechanics
-- PHYS304 : Thermal Physics
-- PHYS328W : Analog Electronics
-- PHYS401 : Applications of Quantum Mechanics
-- PHYS410 : Classical Mechanics
-- CIE100 : Common Intellectual Experience
+- PHYS111Q and PHYS112 : *General Physics I and II*
+- PHYS121Q : *Spacetime and Quantum Physics*
+- PHYS122Q : *Electricty, Magnetism, and Waves*
+- PHYS201 : *Introductory Classical Mechanics*
+- PHYS304 : *Thermal Physics*
+- PHYS328W : *Analog Electronics*
+- PHYS401 : *Applications of Quantum Mechanics*
+- PHYS410 : *Classical Mechanics*
+- CIE100 : *Common Intellectual Experience*
+- ENV-350: *Energy & Environment*
 
 ---
 
@@ -48,6 +49,8 @@
 - Ursinus College Laughlin Professional Achievement Award (2006).
 - NSF-RUI Grant <A HREF="https://www.nsf.gov/awardsearch/showAward?AWD_ID=0355129">PHY-0355129</A>, "RUI: Shell Structure and Isospin Symmetry in Exotic Nuclei," $86,288, supporting research in experimental nuclear structure with undergraduates (2004-2007).
 - NSF-RUI Grant <A HREF="https://www.nsf.gov/awardsearch/showAward?AWD_ID=0098774">PHY-0098774</A>/<A HREF="https://www.nsf.gov/awardsearch/showAward?AWD_ID==0342281"> PHY-0342281</A>, "Isospin Symmetry and Core Polarization in <I>Z=8</I> and <I>N=8</I> Single Closed Shell Nuclei," $88,000, supporting research in experimental nuclear structure with undergraduates (2001-2004).
+
+---
 
 ### Research with Undergraduates
 (The names of undergraduates are in **boldface**.)
@@ -100,6 +103,8 @@
 -  Doppler shift attenuation measurement of the 2<SUP>+</SUP><SUB>1</SUB> state of <SUP>18</SUP>Ne (CEU Poster), <B>J.M. Thompson</B>, L.A. Riley, <B>F. Letson</B>, W.T. Cluff, P.D. Cottle, (October 2001 APS/DNP Meeting, Maui, HI), Bull. Amer. Phys. Soc. <B>46</B>, 107 (2001). 
 -  Conversion electron-gamma coincidences and intrinsic reflection asymmetry in <SUP>219</SUP>Ra, L.A. Riley, P.D. Cottle, M. Fauerbach, V.S. Griffin, <B>B.N. Guy</B>, K.W. Kemper, <B>G.S. Rajbaidya</B>, and O.J. Tekyi-Mensah, Phys. Rev. <B>C60</B>, 021301(R) (2000).
 -  In-beam test of a 'clover-style' germanium gamma-ray detector, <B>B.N. Guy</B>, Sponsor: Dr. Lewis A. Riley, Undergraduate Research Conference, Butler University (1999). 
+
+---
 
 ### Publications in Refereed Journals
 - <SUP>54</SUP>Fe(d, p)<SUP>55</SUP>Fe and the evolution of single neutron energies in the N=29 isotones, L. A. Riley, I. C. S. Hay, L. T. Baby, A. L. Conley, P. D. Cottle, J. Esparza, K. Hanselman, B. Kelly, K. W. Kemper, K. T. Macon, G. W. McCann, M. W. Quirin, R. Renom, R. L. Saunders, M. Spieker, and I. Wiedenh&#246;ver, <A HREF="https://doi.org/10.1103/PhysRevC.106.064308">Phys. Rev. C <B>106</B>, 064308 (2022)</A>.
@@ -160,6 +165,8 @@ A. Gade, D. Bazin, C. A. Bertulani, B. A. Brown, C. M. Campbell, J. A. Church, D
 -  Octupole states in <SUP>196</SUP>Pt(p,p' gamma), J.K. Jewell, P.D. Cottle, K.W. Kemper, and L.A. Riley, <A HREF="http://prola.aps.org/abstract/PRC/v56/i5/p2440_1">Phys. Rev. <B>C56</B>, 2440 (1997)</A>. 
 - Zero degree detector for conversion electrons from a heavy-ion-induced reaction, M.P. Metlay, L.A. Riley, P.D. Cottle, J.K. Jewell, and K.W. Kemper, Nucl. Instr. Meth. <B>A385</B>, 112 (1997). 
 
+---
+
 ### Conference Contributions
 - Inverse-kinematics proton scattering  from <SUP>42,44</SUP>S, <SUP>41,43</SUP>P, L. A. Riley, S. D. Gregory, E. B. Haldeman, B. R. Klybor, M. A. Liggett, L. M. Skiles, P.D. Cottle, K. W. Kemper, A. Volya, D. Bazin, J. Belarge, P. C. Bender, B. A. Brown, B. Elman, A. Gade, S. Lipschutz, B. Longfellow, E. Lunderberg, T. Mijatovic, J. Pereira, R. Titus, D. Weisshaar, J. C. Zamora, R. G. T. Zegers, <A HREF="http://meetings.aps.org/Meeting/DNP19/Session/GN.5">  Bull. Amer. Phys. Soc. <B>64</B>, No. 12, GN.00005 (2019)</A>.
 -  Inverse-kinematics proton scattering by <SUP>50,52</SUP>Ca, L.A. Riley,  M.L. Agiorgousis, F.G. DeVone, M.T. Glowacki, B.V. Sadler, P.D. Cottle, K.W. Kemper, D.M. McPherson, T.R. Baugher, D. Bazin, M. Bowry, A. Gade, E.M. Lunderberg, S. Noji, M. Scott, D. Weisshaar, R.G.T. Zegers, <A HREF="http://meetings.aps.org/Meeting/DNP13/Session/JD.7">Bull. Amer. Phys. Soc. <B>58</B>, No. 13, JD.00007 (2013)</A>.
@@ -172,6 +179,8 @@ A. Gade, D. Bazin, C. A. Bertulani, B. A. Brown, C. M. Campbell, J. A. Church, D
 - The Isospin Composition of the 2<SUP>+</SUP><SUB>1</SUB> State of <SUP>18</SUP>Ne, L.A. Riley, P.D. Cottle,  T. Glasmacher, K.W. Kemper, (Nuclear Structure 2000, East Lansing, MI, August 2000).
 - Weak Coupling and Single-particle Structure at High Spin in <SUP>143</SUP>Nd, M. Fauerbach, L.A. Riley, P.D. Cottle, R.A. Kaye, and K.W. Kemper, (April 1998 APS/DNP Meeting, Columbus, OH), Bull. Amer. Phys. Soc. <B>43</B>, 1173 (1998). 
 - M<SUB>n</SUB>/M<SUB>p</SUB> Measurement in Single Closed Shell Nucleus <SUP>18</SUP>Ne, L.A. Riley, J.K. Jewell, P.D. Cottle, K.W. Kemper, T. Glasmacher, R.W. Ibbotson, D.J. Morrisey, H. Scheit, M. Chromik, Y. Blumenfeld, S.E. Hirzebruch, T. Suomij&#228;rvi, (April 1997 APS/DNP Meeting, Washington, DC), Bull. Amer. Phys. Soc. <B>42</B>, 1143 (1997). 
+
+---
 
 ### Invited Talks
 - Gamma-Ray Spectroscopy of Direct Reactions in a Liquid hydrogen Target with GRETINA, Gordon Research Conference on Nuclear Chemistry, Colby-Sawyer College, New London, NH, June 2017. 

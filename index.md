@@ -8,8 +8,8 @@ he|him
 
 ### Spring 2023 Courses
 - PHYS-122: *Electromagnetism*
-- ENV-350: *Energy & Environment*
 - PHYS-112L.A: *General Physics II Lab*
+- ENV-350: *Energy & Environment*
 
 ### Fall 2022 Courses
 - [PHYS-111-A: *General Physics I*](https://ursinus.instructure.com/courses/14826)
@@ -20,8 +20,3 @@ he|him
 ### Summer 2022
 
 Mill Heinze (UC Physics '24) and Dylan Symms (UC Physics '23) were at the [Fox Lab at Florida State University](http://fsunuc.physics.fsu.edu/research/fox_lab/), using the 9 MV Tandem Van de Graaff accelerator to shoot a beam of deuterons at a <SUP>52</SUP>Cr target. They studied the neutron transfer reaction <SUP>52</SUP>Cr + d &rarr; <SUP>53</SUP>Cr + p by measuring the momentums of protons produced in the reaction with the Super Enge Split Pole Spectrograph. Their work will improve the experimental picture of neutron shell structure beyond the N=28 major shell.
-
-### Spring 2022 Courses
-
-- [PHYS-112: *General Physics II*](https://ursinus.instructure.com/courses/13555)
-- [PHYS-299: *Mathematical Physics I*](https://ursinus.instructure.com/courses/13594)
