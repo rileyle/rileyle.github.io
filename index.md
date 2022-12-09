@@ -6,6 +6,11 @@ Professor at [Ursinus College](https://www.ursinus.edu)<BR />
 <a rel="me noopener" href="https://mas.to/@lewriley" target="_blank">Mastodon: @lewriley@mas.to</a><BR />
 he|him
 
+### Spring 2023 Courses
+- PHYS-122: *Electromagnetism*
+- ENV-350: *Energy & Environment*
+- PHYS-112L.A: *General Physics II Lab*
+
 ### Fall 2022 Courses
 - [PHYS-111-A: *General Physics I*](https://ursinus.instructure.com/courses/14826)
 - PHYS-111L.B: *General Physics I Lab*
