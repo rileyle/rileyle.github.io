@@ -6,7 +6,7 @@ he|him
 
 ### Fall 2023 Courses
 - [PHYS-401: *Applications of Quantum Mechanics*](https://ursinus.instructure.com/courses/16705)
-- [PHYS-328W: *Analog Electronics*])(https://ursinus.instructure.com/courses/16654)
+- [PHYS-328W: *Analog Electronics*](https://ursinus.instructure.com/courses/16654)
 - PHYS-111L.A & D: *General Physics I Lab*
 
 ### Spring 2023 Courses
