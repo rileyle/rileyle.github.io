@@ -16,7 +16,7 @@ he|him
 
 ### Spring and Summer 2023
 
-Mill Heinze (UC Physics '24), Jake Kosa (UC CS `25), and Alyssa Himmelreich (UC Physics `26) traveled to the Facility for Rare Isotope Beams (FRIB) at Michigan State University for a first attempt to measure Coulomb excitation of the very exotic nucleus <SUP>42</SUP>Si, a nucleus that has twice as many neutrons as protons. The rate of <SUP>42</SUP>Si nuclei produced was not quite enough to complete the measurement. In July, Ian Conroy (UC Physics `24) and Jake Kosa returned to FRIB in July for the successful second attempt!
+Mill Heinze (UC Physics '24), Jake Kosa (UC CS '25), and Alyssa Himmelreich (UC Physics '26) traveled to the Facility for Rare Isotope Beams (FRIB) at Michigan State University for a first attempt to measure Coulomb excitation of the very exotic nucleus <SUP>42</SUP>Si, a nucleus that has twice as many neutrons as protons. The rate of <SUP>42</SUP>Si nuclei produced was not quite enough to complete the measurement. In July, Ian Conroy (UC Physics '24) and Jake Kosa returned to FRIB in July for the successful second attempt!
 
 Meanwhile, Mill Heinze and Ian Conroy spent 5 weeks at the [Fox Lab at Florida State University](http://fsunuc.physics.fsu.edu/research/fox_lab/) extending the experimental study of <SUP>53</SUP>Cr by combining the Super Enge Split Pole Spectrograph with the CeBrA array of CeBr scintillator detectors to collect the gamma rays emitted by excited <SUP>53</SUP>Cr following the <SUP>52</SUP>Cr + d &rarr; <SUP>53</SUP>Cr + p transfer reaction. This data will provide additional details of the excited states populated in the reaction.
 
