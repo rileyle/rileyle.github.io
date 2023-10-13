@@ -1,7 +1,7 @@
 Professor at [Ursinus College](https://www.ursinus.edu) in [Physics & Astronomy](https://www.ursinus.edu/academics/physics-and-astronomy/)<BR />
 [Pre-Engineering](https://www.ursinus.edu/academics/pre-engineering/) Coordinator<BR />
 [lriley@ursinus.edu](mailto:lriley@ursinus.edu)<BR />
-Fediverse: <a  rel="me" href="https://firefish.social/@lewriley">@lewriley@firefish.socal</a><BR />
+Mastodon: <a  rel="me" href="https://mas.to/@lewriley">@lewriley@mas.to</a><BR />
 he|him
 
 ### Fall 2023 Courses
