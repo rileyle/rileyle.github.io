@@ -52,6 +52,5 @@ In summer 2023, we used the CeBrA demonstrator array of CeBr gamma-ray detectors
 
 > <img src="assets/img/CeBrA_20230623.png" width=300>
 >
-> The CeBrA demonstrator array of CeBr scintillator detectors and target chamber coupled to the Super Enge Split-Pole Spectrograph (SPS) at FSU.
-
+> The CeBrA demonstrator for particle-gamma coincidence experiments at the FSU Super-Enge Split-Pole Spectrograph, A. L. Conley, B. Kelly, M. Spieker, R. Aggarwal, S. Ajayi, L. T. Baby, S. Baker, C. Benetti, <B>I. Conroy</B>, P. D. Cottle, I. B. D’Amato, P. DeRosa, J. Esparza, S. Genty, K. Hanselman, I. Hay, <B>M. Heinze</B>, D. Houlihan, M. I. Khawaja, P. S. Kielb, A.N. Kuchera, G.W. McCann, A. B. Morelock, E. Lopez-Saavedra, R. Renom, L. A. Riley, G. Ryan, A. Sandrik, V. Sitaraman, E. Temanson, M. Wheeler, C. Wibisono, I. Wiedenh&#246;ver, <A HREF="https://doi.org/10.1016/j.nima.2023.168827">Nucl. Instr. Meth. <B>A1058</B>, 168827 (2023)</A>.
 
