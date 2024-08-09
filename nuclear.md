@@ -2,7 +2,7 @@
 
 The Ursinus College Nuclear Structure Group collaborates with nuclear scientists on experiments at accelerator laboratories like the [John D. Fox Laboratory at Florida State University (FSU)](https://fsunuc.physics.fsu.edu/research/fox_lab) and the [Facility for Rare Isotope Beams at Michigan State University (FRIB)](https://frib.msu.edu). Our experimental work is focused on understanding the interplay between collective nuclear behavior, such as vibrations and rotations of the entire system, and the behavior of the individual protons and neutrons within it. 
 
-Our work is funded by National Science Foundation Grant No. [PHY-2208804, “RUI: Shell Structure and Collective Excitations in Exotic Nuclei"](http://www.nsf.gov/awardsearch/showAward?AWD_ID=2208804).
+Our work is funded by National Science Foundation Grant Nos. [PHY-2208804, “RUI: Shell Structure and Collective Excitations in Exotic Nuclei"](http://www.nsf.gov/awardsearch/showAward?AWD_ID=2208804) and [PHY-2405485, "MRI: A New CeBr3 Gamma-Ray Detection Array (CeBrA) for Particle-Gamma Coincidence Experiments at the FSU Super-Enge Split-Pole Spectrograph,"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2405485).
 
 ### Inverse-Kinematics Proton Scattering and Coulomb Excitation at the NSCL/FRIB
 
@@ -14,7 +14,7 @@ We have been studying the systematic behavior of proton and neutron contribution
 >
 > <SMALL>Inverse-kinematics proton scattering from <SUP>42,44</SUP>S, <SUP>41,43</SUP>P, and the collapse of the <I>N=28</I> major shell closure, L. A. Riley, D. Bazin, J. Belarge, P. C. Bender, B. A. Brown, P. D. Cottle, B. Elman, A. Gade, <B>S. D. Gregory</B>, <B>E. B. Haldeman</B>, K. W. Kemper, <B>B. R. Klybor</B>, <B>M. A. Liggett</B>, S. Lipschutz, B. Longfellow, E. Lunderberg, T. Mijatovic, J. Pereira, <B>L. M. Skiles</B>, R. Titus, A. Volya, D. Weisshaar, J. C. Zamora, and R. G. T. Zegers, <A HREF="https://doi.org/10.1103/PhysRevC.100.044312">Phys. Rev. C <B>100</B>, 044312 (2019)</A>, [arXiv:1910.07986](https://arxiv.org/abs/1910.07986).</SMALL>
 
-In spring and summer of 2023, we began the process of expanding this experimental picture to <SUP>42</SUP>Si at FRIB with a Coulomb excitation experiment. We hope to return soon for the complementary proton-scattering measurement.
+In spring and summer of 2023, we began the process of expanding this experimental picture to <SUP>42</SUP>Si at FRIB with a Coulomb excitation experiment.
 
 > <img src="assets/img/Ursinus_at_FRIB_S2023.png" width=300>
 >
@@ -23,6 +23,12 @@ In spring and summer of 2023, we began the process of expanding this experimenta
 > <img src="assets/img/Gretina_S2023.png" width=300> 
 > 
 > The Gretina gamma-ray tracking array installed at the focus of the S800 magnetic spectrograph at FRIB.
+
+ We returned to FRIB in March 2024 for the complementary proton-scattering measurements of <SUP>44</SUP>S and <SUP>42</SUP>Si.
+ 
+> <img src="assets/img/Ursinus_at_FRIB_S2024.png" width=300>
+>
+> Blake McNulty (UC 2026), Alyssa Himmelreich (UC 2026), and Alyssa Himmelreich (UC 2026) in front of GRETINA and the NSCL/Ursinus liquid hydrogen target at FRIB in March 2024.
 
 ### Neutron Transfer at John D. Fox Superconducting Linear Accelerator Laboratory at Florida State University (FSU)
 
@@ -48,7 +54,7 @@ In summer of 2022 we completed a remeasurement of <SUP>52</SUP>Cr(d,p)<SUP>53</S
 
 > <SMALL> g<SUB>9/2</SUB> neutron strength in the <I>N=29</I> isotones and the <SUP>52</SUP>Cr(d, p)<SUP>53</SUP>Cr reaction, L. A. Riley, <B>D. T. Simms</B>, L. T. Baby, A. L. Conley, P. D. Cottle, J. Esparza, K. Hanselman, <B>I. C. S. Hay</B>, <B>M. Heinze</B>, B. Kelly, K. W. Kemper, G. W. McCann, R. Renom, M. Spieker, and I. Wiedenh&#246;ver, <A HREF="https://doi.org/10.1103/PhysRevC.108.044306">Phys. Rev. C <B>108</B>, 044306 (2023)</A>, [arXiv.2310.06722](https://arxiv.org/abs/2310.06722).</SMALL>
 
-In summer 2023, we used the CeBrA demonstrator array of CeBr gamma-ray detectors to collect proton-gamma-ray coincidence data from the same reaction. Gamma-ray angular distributions can be used to clarify angular momentum and parity assignments to excited states.
+In the summers of 2023 and 2024, we used the CeBrA demonstrator array of CeBr gamma-ray detectors to collect proton-gamma-ray coincidence data from neutron transfer to <SUP>52</SUP>Cr (Mill Heinze and Ian Conroy, summer 2023) and <SUP>61</SUP>Ni (Ewan Chattin, summer 2024). Gamma-ray angular distributions can be used to clarify angular momentum and parity assignments to excited states. In late summer 2024, we learned that the National Science Foundation will fund the full CeBrA array via [NSF-MRI grant no. PHY-2405485](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2405485).
 
 > <img src="assets/img/CeBrA_20230623.png" width=300>
 >
