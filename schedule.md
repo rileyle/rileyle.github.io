@@ -1,4 +1,4 @@
-## Fall 2022 Schedule
+## Fall 2024 Schedule
 
 ![Schedule](/assets/img/schedule.png) 
 
