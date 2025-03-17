@@ -1,4 +1,4 @@
-## Fall 2024 Schedule
+## Spring 2025 Schedule
 
 ![Schedule](/assets/img/schedule.png) 
 

@@ -4,10 +4,10 @@ Professor at [Ursinus College](https://www.ursinus.edu) in [Physics & Astronomy]
 Mastodon: <a  rel="me" href="https://mas.to/@lewriley">@lewriley@mas.to</a><BR />
 he|him
 
-### Fall 2024 Courses
-- [PHYS-201: *Classical Mechanics*](https://ursinus.instructure.com/courses/18593)
-- [PHYS-111Q.A: *General Physics I*](https://ursinus.instructure.com/courses/18543)
-- PHYS-111L.A: *General Physics I Lab*
+### Spring 2025 Courses
+- [PHYS-122Q: *Electromagnetism*](https://ursinus.instructure.com/courses/19132)
+- [PHYS-339W: *Advanced Physics Laboratory II*](https://ursinus.instructure.com/courses/19151)
+- PHYS-112L.A: *General Physics II Lab*
 
 ### Spring and Summer 2024
 Alyssa Himmelreich (UC Physics '26) and Blake McNulty (UC Pre-Engineering '26) traveled to the Facility for Rare Isotope Beams (FRIB) at Michigan State University to complete inverse-kinematics proton scattering measurements of the <I>N=28</I> isotones <SUP>44</SUP>S and <SUP>42</SUP>Si. The combined results of the Coulomb excitation and proton scattering measurements of <SUP>42</SUP>Si will shed light on the relative contributions of neutrons and protons to the collective excitation of this nucleus.
