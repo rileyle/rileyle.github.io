@@ -199,6 +199,7 @@ A. Gade, D. Bazin, C. A. Bertulani, B. A. Brown, C. M. Campbell, J. A. Church, D
 ---
 
 ### Invited Talks
+- Studying Collective Excitations of Fast Beams with a Liquid Hydrogen Target and GRETINA, GRETA Dedication Workshop, Lawrence Berkeley National Laboratory, April 2025.
 - Gamma-Ray Spectroscopy of Direct Reactions in a Liquid hydrogen Target with GRETINA, Gordon Research Conference on Nuclear Chemistry, Colby-Sawyer College, New London, NH, June 2017. 
 - Disentangling neutron and proton contributions to collective excitations: proton scattering at the NSCL and FRIB, Nuclear Physics Seminar, Rutgers University, Piscataway, NJ, November 2015.
 - Nuclear shell structure away from stability, Physics Department Colloquium, Ball State University, Muncie, IN, April 2001.
