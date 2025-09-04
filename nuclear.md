@@ -24,11 +24,17 @@ In spring and summer of 2023, we began the process of expanding this experimenta
 > 
 > The Gretina gamma-ray tracking array installed at the focus of the S800 magnetic spectrograph at FRIB.
 
- We returned to FRIB in March 2024 for the complementary proton-scattering measurements of <SUP>44</SUP>S and <SUP>42</SUP>Si.
+We returned to FRIB in March 2024 for the complementary proton-scattering measurements of <SUP>44</SUP>S and <SUP>42</SUP>Si.
  
 > <img src="assets/img/Ursinus_at_FRIB_S2024.png" width=300>
 >
 > Blake McNulty (UC 2026), Alyssa Himmelreich (UC 2026), and Alyssa Himmelreich (UC 2026) in front of GRETINA and the NSCL/Ursinus liquid hydrogen target at FRIB in March 2024.
+
+Our Coulomb excitation and proton scattering measurements are now published, where we find that protons are "punching above their weight" in <SUP>42</SUP>Si, despite the fact that it contains twice as many neutrons as protons.
+
+> <img src="assets/img/mn2_mp2.png" width=300>
+>
+> <SMALL>Determination of proton and neutron contributions to the 0<SUP>+</SUP><SUB>g.s.</SUB> → 2<SUP>+</SUP><SUB>1</SUB> excitations in <SUP>42</SUP>Si and <SUP>44</SUP>S using inelastic proton scattering in inverse kinematics and intermediate-energy Coulomb excitation, L. A. Riley, I. Conroy, <B>A. M. Himmelreich</B>, <B>M. Heinze</B>, <B>J. Kosa</B>, <B>B. McNulty</B>, P. D. Cottle, M. Spieker, A. Volya, A. L. Conley, D. Houlihan, B. Kelly, K. W. Kemper, Sk M. Ali, T. Beck, S. A. Gillespie, M. Hausmann, S. Noji, J. Pereira, and D. Weisshaar, J. Chung-Jung, P. Farris, A. Gade, G. Grauvogel, A. M. Hill, Z. Rahman, and R. G. T. Zegers, B. Longfellow, N. D. Pathirana, <A HREF="https://doi.org/10.1103/b8xj-ycqk">Phys. Rev. C <B>112</B>, 014331 (2025)</A>, [arXiv:2508.00703](http://arxiv.org/abs/2508.00703).</SMALL>
 
 ### Neutron Transfer at John D. Fox Superconducting Linear Accelerator Laboratory at Florida State University (FSU)
 
