@@ -3,9 +3,14 @@ Professor at [Ursinus College](https://www.ursinus.edu) in [Physics & Astronomy]
 [lriley@ursinus.edu](mailto:lriley@ursinus.edu)<BR />
 he|him
 
+### Spring 2026 Courses
+- [PHYS-409: *Electrodynamics*](https://ursinus.instructure.com/courses/21146)
+- [PHYS-122: *Electromagnetism*](https://ursinus.instructure.com/courses/21133)
+- PHYS-112L: *General Physics II Lab*
+
 ### Fall 2025 Courses
-- [PHYS-201: *Classical Mechanics*](https://ursinus.instructure.com/courses/19886)
-- [PHYS-328W: *Analog Electronics*](https://ursinus.instructure.com/courses/20580)
+- PHYS-201: *Classical Mechanics*
+- PHYS-328W: *Analog Electronics*
 - PHYS-121L: *Spacetime and Quantum Physics Lab*
 
 ### Spring and Summer 2025 Research
